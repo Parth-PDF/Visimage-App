@@ -12,11 +12,11 @@ Users can create an account and uploads images in a public iamge library feed fo
 will update the application and show the latest feed.
 
 ## Instructions
-Starting golang server
+Starting golang server: cd Visimage-App
 ```bash
 go run .
 ```
-Launching react app
+Launching react app: cd Visimage-App/static
 ```bash
 yarn start
 ```

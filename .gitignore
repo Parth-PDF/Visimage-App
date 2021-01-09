@@ -1,0 +1,23 @@
+# dependencies
+/static/visimage/node_modules
+/static/visimage/.pnp
+/static/visimage/.pnp.js
+
+# testing
+/static/visimage/coverage
+
+# production
+/static/visimage/build
+
+# misc
+.DS_Store
+/static/visimage/.env.local
+/static/visimage/.env.development.local
+/static/visimage/.env.test.local
+/static/visimage/.env.production.local
+
+/static/visimage/npm-debug.log*
+/static/visimage/yarn-debug.log*
+/static/visimage/yarn-error.log*
+
+.vscode
